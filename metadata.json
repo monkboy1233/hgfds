@@ -1,0 +1,6 @@
+{
+  "name": "Vyso Mirror Studio",
+  "description": "High-performance device screen mirroring and multi-display controller with all Pro features unlocked, multi-screen selector, and modernized UI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
